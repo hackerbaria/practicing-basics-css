@@ -1,5 +1,5 @@
-<img src="images/homePage.png" width="128"/>
-<img src="images/packages.png" width="128"/>
+<img src="images/homePage.png"/>
+<img src="images/packages.png"/>
 
 # uHost Landing Page
 

@@ -1,3 +1,6 @@
+<img src="images/homePage.png" width="128"/>
+<img src="images/packages.png" width="128"/>
+
 # uHost Landing Page
 
 This project is a simple static website for the fictional hosting provider **uHost**. It demonstrates basic HTML and CSS layout and styling techniques, including navigation, responsive plans, and feature highlights.

@@ -1,4 +1,7 @@
+This is the home page:
 <img src="images/homePage.png"/>
+
+and This is the package Page when we clicked packages
 <img src="images/packages.png"/>
 
 # uHost Landing Page
